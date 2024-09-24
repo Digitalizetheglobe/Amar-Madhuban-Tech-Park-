@@ -162,7 +162,7 @@
 .elementor-2 .elementor-element.elementor-element-a7aea27 .elementor-heading-title {
     color: #9C7A3E;
     font-family: "Gilda Display", Sans-serif;
-    font-size: 35px;
+    font-size: 34px;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 16px;
@@ -2395,7 +2395,7 @@ body.elementor-page-2>.elementor-motion-effects-container>.elementor-motion-effe
     }
 
     .elementor-2 .elementor-element.elementor-element-709338e>.elementor-element-populated {
-        padding: 40px 40px 40px 40px;
+        padding: 18px 40px 40px 16px;
     }
 
     .elementor-2 .elementor-element.elementor-element-d315155 {
@@ -2484,8 +2484,8 @@ body.elementor-page-2>.elementor-motion-effects-container>.elementor-motion-effe
         --gap: 21px 3px;
         --padding-top: 70px;
         --padding-bottom: 070px;
-        --padding-left: 4px;
-        --padding-right: 29px;
+        --padding-left: 13px;
+        --padding-right: 17px;
     }
 
     .elementor-2 .elementor-element.elementor-element-c795bf8 {
@@ -2894,7 +2894,7 @@ body.elementor-page-2>.elementor-motion-effects-container>.elementor-motion-effe
     }
 
     .elementor-2 .elementor-element.elementor-element-d58987b>.elementor-element-populated {
-        margin: 50px 0px 0px 0px;
+        margin: 47px 0px 0px -12px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 0px;
         padding: 0px 0px 0px 0px;
